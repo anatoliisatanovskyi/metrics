@@ -1,0 +1,18 @@
+# Java
+*.class
+**/target/
+
+#Logger
+**/log/*.log
+**/log/*.log.[0-9]
+
+#Archive
+*.jar
+*.war
+*.ear
+*.zip
+*.gz
+*.rar
+
+#Eclipse
+**/.settings/

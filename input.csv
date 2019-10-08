@@ -1,0 +1,9 @@
+documentId,name,gold,extracted
+doc1.html,fistName,John,John
+doc2.html,fistName,Jane,Jan
+doc3.html,fistName,Mitch,
+doc4.html,fistName,,Sarah
+doc1.html,lastName,Doe,Doe
+doc2.html,lastName,Doe,Doe
+doc3.html,lastName,Connor,
+doc4.html,lastName,,Connor

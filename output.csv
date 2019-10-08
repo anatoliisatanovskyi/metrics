@@ -1,0 +1,9 @@
+documentId,name,gold,extracted,metric
+doc1.html,fistName,John,John,TP
+doc2.html,fistName,Jane,Jan,FP_FN
+doc3.html,fistName,Mitch,,FN
+doc4.html,fistName,,Sarah,FP
+doc1.html,lastName,Doe,Doe,TP
+doc2.html,lastName,Doe,Doe,TP
+doc3.html,lastName,Connor,,FN
+doc4.html,lastName,,Connor,FP
